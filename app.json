@@ -1,0 +1,13 @@
+{
+  "name": "mytasksappfinal",
+  "displayName": "mytasksappfinal",
+  "expo": {
+    "name": "mytasksappfinal",
+    "slug": "mytasksappfinal",
+    "scheme": "mytasksappfinal",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
